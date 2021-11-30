@@ -1,4 +1,5 @@
 # ignore all .a files
 node_modules/
 dist/
-.json
+.env
+.gitignore
